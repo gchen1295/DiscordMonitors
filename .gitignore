@@ -1,0 +1,3 @@
+#dont track
+node_modules/
+twitter.env
